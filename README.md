@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aditya25-yadav/aditya25-yadav/main/assets/download.gif" alt="Spider-Man" width="700"/>
+  <img src="https://raw.githubusercontent.com/aditya25-yadav/aditya25-yadav/main/assets/download (1).gif" alt="Spider-Man" width="700"/>
   <br/>
   <b>Engineering clarity out of complexity.</b>
 </div>
