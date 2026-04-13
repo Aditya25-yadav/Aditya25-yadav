@@ -59,21 +59,37 @@ Let's connect and build something awesome together!
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Aditya25-yadav/space-debris-tracker-">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=space-debris-tracker-&theme=tokyonight&cache_seconds=86400"/>
-  </a>
-  <a href="https://github.com/Aditya25-yadav/Edusync_lite">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=Edusync_lite&theme=tokyonight&cache_seconds=86400" />
-  </a>
+
+<a href="https://github.com/Aditya25-yadav/space-debris-tracker-">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=space-debris-tracker-&theme=tokyonight&cache_seconds=86400" />
+</a>
+<br/>
+<b>🚀 Space Debris Tracker (AI + Orbital Mechanics)</b>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aditya25-yadav/ExcursionX">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=ExcursionX&theme=tokyonight&cache_seconds=86400" />
-  </a>
+
+<a href="https://github.com/Aditya25-yadav/Edusync_lite">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=Edusync_lite&theme=tokyonight&cache_seconds=86400" />
+</a>
+<br/>
+<b>📚 EduSync (Real-time Collaboration Platform)</b>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Aditya25-yadav/ExcursionX">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=ExcursionX&theme=tokyonight&cache_seconds=86400" />
+</a>
+<br/>
+<b>🧳 ExcursionX (Smart Trip Management System)</b>
+
 </p>
 
 ---
+
 ### Github Stats 
 <!-- GitHub Stats -->
 <div align="center">
