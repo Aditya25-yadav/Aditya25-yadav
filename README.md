@@ -55,14 +55,36 @@ Let's connect and build something awesome together!
 </p>
 
 ---
+### Featured Projects 
+<p align="left">
 
+<a href="https://github.com/Aditya25-yadav/space-debris-tracker-">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=space-debris-tracker-&theme=tokyonight&cache_seconds=86400" />
+</a>
+</p>
+<br/>
+<p align ="center">
+<a href="https://github.com/Aditya25-yadav/Edusync_lite">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=Edusync_lite&theme=tokyonight&cache_seconds=86400" />
+</a>
+</p>
+<br/>
+<p align ="right">
+<a href="https://github.com/Aditya25-yadav/ExcursionX">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditya25-yadav&repo=ExcursionX&theme=tokyonight&cache_seconds=86400" />
+</a>
+</p>
+</p>
+
+---
+### Github Stats 
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=aditya25-yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </div>
 
 ---
-
+### Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aditya25-yadav/aditya25-yadav/output/github-contribution-grid-snake-dark.svg" />
 </p>
