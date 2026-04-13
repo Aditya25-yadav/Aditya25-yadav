@@ -49,7 +49,6 @@ Let's connect and build something awesome together!
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya25-yadav&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub stats" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=aditya25-yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </div>
 
