@@ -1,20 +1,81 @@
-<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientText {
+				  0% {
+				    background-position: 0% 50%;
+				  }
+				  50% {
+				    background-position: 100% 50%;
+				  }
+				  100% {
+				    background-position: 0% 50%;
+				  }
+				}
+        .snowflake {
+          color: #fff;
+          font-size: 1em;
+          font-family: Arial;
+          text-shadow: 0 0 1px #000;
+        }
+				h1 {
+				  font-family: 'Inter',
+					-apple-system,
+					BlinkMacSystemFont, 
+					'Segoe UI', 
+					'Roboto', 
+					'Oxygen', 
+					'Ubuntu', 
+					'Cantarell', 
+					'Fira Sans', 
+					'Droid Sans', 
+					'Helvetica Neue', 
+					sans-serif;
+				  margin: 0;
+				  font-size: 4em;
+				  font-weight: 900;
+				  letter-spacing: -.05em;
+				  text-align: center;
+				  background: linear-gradient(270deg,#3828ca 0,#ff004c); /* ORIGINAL COLORS */
+				  background-size: 200%;
+				  background-clip: text;
+				  -webkit-background-clip: text;
+				  -webkit-text-fill-color: transparent;
+				  animation: gradientText 3s ease infinite;
+				}
+        @keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}
+        @keyframes snowflakes-shake{0%{transform:translateX(0px)}50%{transform:translateX(80px)}100%{transform:translateX(0px)}}
+        .snowflake{
+          position:absolute;
+          top:-10%;
+          user-select:none;
+          animation-name:snowflakes-fall,snowflakes-shake;
+          animation-duration:10s,3s;
+          animation-timing-function:linear,ease-in-out;
+          animation-iteration-count:infinite,infinite;
+        }
+        .snowflake:nth-of-type(1){left:10%;animation-delay:1s,1s}
+        .snowflake:nth-of-type(2){left:20%;animation-delay:6s,.5s}
+        .snowflake:nth-of-type(3){left:30%;animation-delay:4s,2s}
+        .snowflake:nth-of-type(4){left:40%;animation-delay:2s,2s}
+        .snowflake:nth-of-type(5){left:50%;animation-delay:8s,3s}
+        .snowflake:nth-of-type(6){left:60%;animation-delay:6s,2s}
+        .snowflake:nth-of-type(7){left:70%;animation-delay:2.5s,1s}
+        .snowflake:nth-of-type(8){left:80%;animation-delay:1s,0s}
+        .snowflake:nth-of-type(9){left:90%;animation-delay:3s,1.5s}
+			</style>
 
-  <defs>
-    <linearGradient id="grad1">
-      <stop offset="0%" stop-color="#00F7FF">
-        <animate attributeName="offset" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#007CF0">
-        <animate attributeName="offset" values="1;0;1" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
+			<h1>Aditya Yadav</h1>
 
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
-        font-size="52" font-family="Inter, sans-serif"
-        fill="url(#grad1)" font-weight="bold">
-    Aditya Yadav
-  </text>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❅</div>
 
+		</div>
+	</foreignObject>
 </svg>
