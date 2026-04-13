@@ -1,12 +1,16 @@
 <div align="center">
 
-<h1> I'm Aditya Yadav</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya25-yadav/aditya25-yadav/main/assets/name.svg" alt="Aditya Yadav" />
+</p>
+
+---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+%7C+Problem+Solver;System+Design+Learner;Building+Scalable+Projects+;Future+Software+Engineer" />
 
 </div>
 
----
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/aditya25-yadav/aditya25-yadav/main/assets/download (2).gif" alt="Spider-Man" height = "700" width="700"/>
   <br/>
