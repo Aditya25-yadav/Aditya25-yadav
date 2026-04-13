@@ -2,7 +2,7 @@
 
 <h1> I'm Aditya Yadav</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+%7C+Problem+Solver;System+Design+Learner;Building+Scalable+Projects+🚀;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+%7C+Problem+Solver;System+Design+Learner;Building+Scalable+Projects+;Future+Software+Engineer" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 Hi, I'm Aditya! I'm a developer passionate about building things that are both functional and impactful. My journey started with curiosity about how software works and has grown into a drive to create real-world solutions.
 
@@ -25,7 +25,7 @@ Let's connect and build something awesome together!
 
 ---
 
-### 🕹️ Languages and Tools
+###  Languages and Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="44" style="margin:0 14px;"/>
   &nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@ Let's connect and build something awesome together!
 
 <!-- Contact Box -->
 <div align="center" style="background: linear-gradient(90deg, #e0c3fc 0%, #8ec5fc 100%); padding: 1.7em 0 1.2em 0; border-radius: 1.2em; margin: 2em 0; max-width: 700px; margin-left: auto; margin-right: auto;">
-  <h2 style="margin-bottom:0.2em; font-size:1.7em; color:#222;">🤝 Let's Connect!</h2>
+  <h2 style="margin-bottom:0.2em; font-size:1.7em; color:#222;"> Let's Connect!</h2>
   <p style="font-size:1.1em; color:#333; margin:0 0 1em 0;">Got a cool idea or just want to chat?<br>Reach me at <b>adi2507yadav@gmail.com</b>!</p>
   <a href="mailto:adi2507yadav@gmail.com" style="margin:0 0.3em;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
