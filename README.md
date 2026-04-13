@@ -63,6 +63,12 @@ Let's connect and build something awesome together!
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya25-yadav/aditya25-yadav/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 
 
 <!-- Contact Box -->
